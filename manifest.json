@@ -1,0 +1,22 @@
+{
+  "name": "Hindi Tutor — Spoken Hindi for Tamil Speakers",
+  "short_name": "Hindi Tutor",
+  "description": "Learn spoken Hindi with 600 sentences, 250 real-life conversations, a verb bank, grammar reference, flashcards and a daily practice session — built for Tamil speakers.",
+  "id": "/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#071A1B",
+  "theme_color": "#071A1B",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "lifestyle"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
